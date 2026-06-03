@@ -1,0 +1,20 @@
+{
+    "dashboardUser": {
+        "username": "600200admin@yopmail.com",
+        "password": "Yosi2026$",
+        "location": "1. Bellfast"
+    },
+    "patientData": {
+        "fname": "Anbu",
+        "lname": "Testpatient",
+        "dob": "10/10/1990",
+        "gender": "Male",
+        "email": "anbu@yopmail.com",
+        "phone": "9172384712",
+        "apptType": "Pediatric",
+        "provider": "Dr.Abricker (101)",
+        "date": "6/3/2026",
+        "time": "10:00 PM",
+        "location": "1. Bellfast"
+    }
+}
